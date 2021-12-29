@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: coffee_recipes_dev
+      hosts:
+        - mongodb+srv://padfoot:<password>@cluster0.ogmee.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
